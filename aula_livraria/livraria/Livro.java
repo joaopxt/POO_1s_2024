@@ -1,4 +1,7 @@
 package livraria;
+
+import java.util.Scanner;
+
 public class Livro {
     
 
@@ -17,4 +20,6 @@ public class Livro {
         this.editora = editora;
 
     }
+
+    
 }

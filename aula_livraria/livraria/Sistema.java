@@ -21,23 +21,10 @@ public class Sistema {
             switch (opt) {
             case 1:{
                     System.out.println("Adicionando livro...");
-                    int id; String titulo; String autor; String ano; String editora;
                     
-                    System.out.println("Id: ");
-                    id = sc.nextInt();
-                    sc.nextLine();
-                    System.out.println("Titulo: ");
-                    titulo = sc.nextLine();
-                    System.out.println("Autor: ");
-                    autor = sc.nextLine();
-                    System.out.println("Ano de publicacao: ");
-                    ano = sc.nextLine();
-                    System.out.println("Editora: ");
-                    editora = sc.nextLine();
+                    Scanner x = new Scanner(System.in);
 
-                    Livro l = new Livro(id, titulo, autor, ano, editora);
-                    
-                    saraiva.cadastrarLivro(l);
+                    saraiva.cadastrarLivro(saraiva.criarLivro(x));
                 }
                 break;
             case 2:{
@@ -50,6 +37,15 @@ public class Sistema {
             break;
             case 3:
                 System.out.println("Detalhando livro...");
+
+                System.out.println("Qual o ID do livro que você deseja buscar: ");
+
+                Scanner y = new Scanner(System.in);
+                int idX = y.nextInt();
+
+                System.out.println(saraiva.detalharLivroById(idX)); 
+
+
                 break;
             case 4:
                 System.out.println("Encerrando o sistema");
