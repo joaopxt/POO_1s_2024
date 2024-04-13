@@ -50,8 +50,7 @@ public class Livraria {
 
         for(Livro l : this.livros){
             if(l.id == id){
-                detalheLivro = "Nome: " + l.titulo + " - Autor: " + l.nomeAutor +
-                " - Ano: " + l.anoPublicacao + " - Editora: " + l.editora;
+                detalheLivro = l.toString();
             }
         }
 

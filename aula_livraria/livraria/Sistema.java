@@ -43,6 +43,8 @@ public class Sistema {
                 Scanner y = new Scanner(System.in);
                 int idX = y.nextInt();
 
+                y.nextLine();
+
                 System.out.println(saraiva.detalharLivroById(idX)); 
 
 
