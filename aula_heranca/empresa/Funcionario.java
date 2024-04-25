@@ -1,3 +1,5 @@
+package aula_heranca.empresa;
+
 
 public class Funcionario {
 

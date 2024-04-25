@@ -1,4 +1,4 @@
-package aula_heranca.heranca.empresa;
+package aula_heranca.empresa;
 
 public class Gerente extends Funcionario {
     
