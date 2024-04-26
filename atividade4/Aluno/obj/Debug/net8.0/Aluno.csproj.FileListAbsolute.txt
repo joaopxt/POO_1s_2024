@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\bin\Debug\net8.0\Aluno.exe
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\bin\Debug\net8.0\Aluno.deps.json
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\bin\Debug\net8.0\Aluno.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\bin\Debug\net8.0\Aluno.dll
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\bin\Debug\net8.0\Aluno.pdb
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.sourcelink.json
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.dll
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\refint\Aluno.dll
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.pdb
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\Aluno.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Documentos\Estudo\POO_1s_2024\atividade4\Aluno\obj\Debug\net8.0\ref\Aluno.dll
