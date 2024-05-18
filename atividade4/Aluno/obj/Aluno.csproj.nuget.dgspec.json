@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj": {}
+    "C:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj": {}
   },
   "projects": {
-    "c:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj": {
+    "C:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj",
+        "projectUniqueName": "C:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj",
         "projectName": "Aluno",
-        "projectPath": "c:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj",
+        "projectPath": "C:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\Aluno.csproj",
         "packagesPath": "C:\\Users\\joao.vpeixoto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\obj\\",
+        "outputPath": "C:\\Users\\joao.vpeixoto\\Downloads\\POO_1s_2024\\atividade4\\Aluno\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joao.vpeixoto\\AppData\\Roaming\\NuGet\\NuGet.Config"
